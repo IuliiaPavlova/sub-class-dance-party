@@ -1,3 +1,5 @@
+Deployed here sub-class-dance-party.netlify.app
+
 # sub-class-dance-party
 
 Fun small jQuery project with classes.

@@ -1,4 +1,4 @@
-Deployed here sub-class-dance-party.netlify.app
+Deployed here [sub-class-dance-party.netlify.app](https://sub-class-dance-party.netlify.app/)
 
 # sub-class-dance-party
 
